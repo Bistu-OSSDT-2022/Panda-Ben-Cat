@@ -1,18 +1,18 @@
-这是一个简单基于Python和opencv对图像的放大和缩小的一个项目，还在开发中...
-:panda_face:
+****这是一个简单基于Python和opencv对图像的放大和缩小的一个项目，还在开发中...
+:panda_face:****
 
 
-项目：
-基于Python和opencv对图像的放大和缩小 
+``项目：``
+基于Python和opencv对图像的放大和缩小
 
 项目背景:school:
 是2021级小学期，大熊猫本猫组选择的开源项目。
 
-困难1.如何使用github:sunny:
+``困难1.``如何使用github:sunny:
 
-困难2.如何上传文件:sunny:
+``困难2.``如何上传文件:sunny:
 
-困难3.代码编写:sunny:
+``困难3.``代码编写:sunny:
 
 
 
@@ -32,15 +32,15 @@ Panda-Ben-Cat
 
 成员及其分工:hearts:
 
-项目文档：lemon-orange-tea（captain）:purple_heart:
+``项目文档``：**lemon-orange-tea（captain）:purple_heart:**
 
-代码开发：yrlw:blue_heart:
+``代码开发``：**yrlw:blue_heart:**
 
-产品设计：lemon-redtea:black_heart:
+``产品设计``：**lemon-redtea:black_heart:**
 
-PPT编写：suan1234:yellow_heart:
+``PPT编写``：**suan1234:yellow_heart:**
 
-资料查找：jkkjkjk:green_heart:
+``资料查找``：**jkkjkjk:green_heart:**
 
 指导老师
 
