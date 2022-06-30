@@ -43,7 +43,7 @@ Panda-Ben-Cat
 ``资料查找``：**jkkjkjk:green_heart:**
 
 FAQ
-[![Open In ](https://github.com/Bistu-OSSDT-2022/Panda-Ben-Cat/blob/main/FAQ.txt)](https://github.com/Bistu-OSSDT-2022/Panda-Ben-Cat/blob/main/FAQ.txt)
+[![Open In FAQ ](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Bistu-OSSDT-2022/Panda-Ben-Cat/blob/main/FAQ.txt)
 
 指导老师
 
