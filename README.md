@@ -44,6 +44,10 @@ Panda-Ben-Cat
 
 [![Open In ](https://tse3-mm.cn.bing.net/th/id/OIP-C.YmXcAvbg-gSvaCiXzhuSNgHaDm?pid=ImgDet&rs=1)](https://github.com/Bistu-OSSDT-2022/Panda-Ben-Cat/blob/main/FAQ.txt)
 
+
+[![Open In ](https://tse1-mm.cn.bing.net/th/id/OIP-C.ubRL8k6U1SuJPa3NW8eW5wHaCR?pid=ImgDet&rs=1)](https://github.com/Bistu-OSSDT-2022/Panda-Ben-Cat/blob/main/Install.txt)
+
+
 指导老师
 
 杨大利
