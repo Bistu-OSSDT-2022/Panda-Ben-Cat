@@ -42,6 +42,10 @@ PPT编写：suan1234:yellow_heart:
 
 资料查找：jkkjkjk:green_heart:
 
+指导老师
+
+杨大利
+
 适用人群:two_men_holding_hands:
 
 everyone
