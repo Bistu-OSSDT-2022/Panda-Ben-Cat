@@ -1,11 +1,13 @@
 ****这是一个简单基于Python和opencv对图像的放大和缩小的一个项目，还在开发中...
 :panda_face:****
+=
 
 
 ``项目：``
 基于Python和opencv对图像的放大和缩小
 
 项目背景:school:
+=
 是2021级小学期，大熊猫本猫组选择的开源项目。
 
 ``困难1.``如何使用github:sunny:
@@ -27,10 +29,12 @@ cv2.resize(image, (0,0), fx=2.0, fy=2.0，使用放缩比例放缩图片。
 
 
 :mahjong:管理团队
+=
 
 Panda-Ben-Cat
 
 成员及其分工:hearts:
+=
 
 ``项目文档``：**lemon-orange-tea（captain）:purple_heart:**
 
@@ -49,10 +53,12 @@ Panda-Ben-Cat
 
 
 指导老师
+=
 
 杨大利
 
 适用人群:two_men_holding_hands:
+=
 
 everyone
 
